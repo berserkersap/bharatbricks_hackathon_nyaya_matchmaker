@@ -1,7 +1,0 @@
-gradio
-pandas
-sentence-transformers
-faiss-cpu
-huggingface_hub
---extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
-llama-cpp-python
